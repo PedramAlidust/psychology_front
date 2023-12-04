@@ -1,0 +1,10 @@
+/* General */
+body, p, div {
+  font-family: iransanse;
+}
+
+
+@font-face {
+  font-family: iransanse;
+  src: url("~assets/fonts/IRANSansWebFaNum.ttf");
+}

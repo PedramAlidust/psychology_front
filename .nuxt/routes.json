@@ -1,0 +1,44 @@
+[
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/home/pedram/Projects/Abf_Front/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_4bf17b5e"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "/home/pedram/Projects/Abf_Front/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_1de12e2a"
+  },
+  {
+    "name": "auth-vr_code",
+    "path": "/auth/vr_code",
+    "component": "/home/pedram/Projects/Abf_Front/pages/auth/vr_code.vue",
+    "chunkName": "pages/auth/vr_code",
+    "_name": "_bcc5be10"
+  },
+  {
+    "name": "profile-admin",
+    "path": "/profile/admin",
+    "component": "/home/pedram/Projects/Abf_Front/pages/profile/admin.vue",
+    "chunkName": "pages/profile/admin",
+    "_name": "_6e8f5cac"
+  },
+  {
+    "name": "profile-user",
+    "path": "/profile/user",
+    "component": "/home/pedram/Projects/Abf_Front/pages/profile/user.vue",
+    "chunkName": "pages/profile/user",
+    "_name": "_61d6f140"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/pedram/Projects/Abf_Front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_33fb2793"
+  }
+]

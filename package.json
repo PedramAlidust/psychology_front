@@ -1,0 +1,49 @@
+{
+  "name": "سامانه مرجع روانشناسی",
+  "version": "1.0.0",
+  "description": "بزرگ ترین و بهترین مختصصین روانسناسی",
+  "author": "Pedram Alidoust",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 'localhost' --port '3001'",
+    "build": "nuxt build",
+    "start": "nuxt start --hostname 'localhost' --port '3001'",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^29.2.0",
+    "@ckeditor/ckeditor5-dev-utils": "^25.4.4",
+    "@ckeditor/ckeditor5-dev-webpack-plugin": "^25.4.4",
+    "@ckeditor/ckeditor5-editor-classic": "^29.2.0",
+    "@ckeditor/ckeditor5-essentials": "^29.2.0",
+    "@ckeditor/ckeditor5-heading": "^29.2.0",
+    "@ckeditor/ckeditor5-image": "^29.2.0",
+    "@ckeditor/ckeditor5-link": "^29.2.0",
+    "@ckeditor/ckeditor5-paragraph": "^29.2.0",
+    "@ckeditor/ckeditor5-theme-lark": "^29.2.0",
+    "@ckeditor/ckeditor5-vue2": "^1.0.5",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@splidejs/vue-splide": "^0.6.7",
+    "chart.js": "^3.8.0",
+    "cookie-universal-nuxt": "^2.2.1",
+    "core-js": "^3.15.1",
+    "fix": "^0.0.6",
+    "js-cookie": "^3.0.1",
+    "moment": "^2.29.4",
+    "nuxt": "2.15.8",
+    "portal-vue": "^2.1.7",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^0.5.1",
+    "vue-axios": "^3.4.1",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-split-carousel": "^1.1.1",
+    "vue-ssr-carousel": "^1.4.0",
+    "woocommerce-api": "^1.5.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/pwa": "^3.3.5",
+    "cross-env": "^5.0.1"
+  }
+}
