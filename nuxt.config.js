@@ -15,12 +15,12 @@ module.exports = {
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'stylesheet', href: '/css/mdb-min.css' }   
+      { rel: 'stylesheet', href: '/abf/css/mdb-min.css' }   
     ],
     script: [
-      { src: '/js/bootstrap/bootstrap.bundle.min.js', body: true },
-      { src: '/js/jquery/jquery-3-6-0-min.js', body: true },
-      { src: '/js/bootstrap/mdb-min.js', body: true },
+      { src: '/abf/js/bootstrap/bootstrap.bundle.min.js', body: true },
+      { src: '/abf/js/jquery/jquery-3-6-0-min.js', body: true },
+      { src: '/abf/js/bootstrap/mdb-min.js', body: true },
     ]
   },
 

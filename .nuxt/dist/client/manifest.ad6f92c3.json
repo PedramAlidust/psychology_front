@@ -2,7 +2,7 @@
   "name": "siteyek",
   "short_name": "سامانه مرجع روانشناسی",
   "icons": [],
-  "start_url": "/?standalone=true",
+  "start_url": "/abf/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"

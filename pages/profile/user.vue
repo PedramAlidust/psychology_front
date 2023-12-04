@@ -155,7 +155,7 @@
           <p class="rounded bg-success p-2 mt-5 me-2 text-start text-white">
             ایجاد مقاله
           </p>
-          <a href="/">
+          <a href="/abf">
             <p class="rounded bg-success p-2 mt-3 me-2 text-start text-white">
               درمانگر ها
             </p>

@@ -84,7 +84,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"سامانه مرجع روانشناسی","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"بزرگ ترین و بهترین مختصصین روانسناسی"}],"link":[{"rel":"stylesheet","href":"\u002Fcss\u002Fmdb-min.css"}],"script":[{"src":"\u002Fjs\u002Fbootstrap\u002Fbootstrap.bundle.min.js","body":true},{"src":"\u002Fjs\u002Fjquery\u002Fjquery-3-6-0-min.js","body":true},{"src":"\u002Fjs\u002Fbootstrap\u002Fmdb-min.js","body":true}],"style":[]},
+    head: {"title":"سامانه مرجع روانشناسی","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"بزرگ ترین و بهترین مختصصین روانسناسی"}],"link":[{"rel":"stylesheet","href":"\u002Fabf\u002Fcss\u002Fmdb-min.css"}],"script":[{"src":"\u002Fabf\u002Fjs\u002Fbootstrap\u002Fbootstrap.bundle.min.js","body":true},{"src":"\u002Fabf\u002Fjs\u002Fjquery\u002Fjquery-3-6-0-min.js","body":true},{"src":"\u002Fabf\u002Fjs\u002Fbootstrap\u002Fmdb-min.js","body":true}],"style":[]},
 
     store,
     router,
