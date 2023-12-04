@@ -78,7 +78,7 @@ module.exports = {
   
   /* run app in subdirectory */  
   router: {      
-    base: '/psychology/'
+    base: '/abf/'
   }
   
 }
