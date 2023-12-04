@@ -5,9 +5,9 @@
   "author": "Pedram Alidoust",
   "private": true,
   "scripts": {
-    "dev": "nuxt --hostname 'localhost' --port '3001'",
+    "dev": "nuxt --hostname 'localhost' --port '3006'",
     "build": "nuxt build",
-    "start": "nuxt start --hostname 'localhost' --port '3001'",
+    "start": "nuxt start --hostname 'localhost' --port '3006'",
     "generate": "nuxt generate"
   },
   "dependencies": {
